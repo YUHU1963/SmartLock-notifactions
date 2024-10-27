@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartLock</string>
+    <string name="UnlockButton">Unlock</string>
+    <string name="LoginPage">Login Page</string>
+    <string name="etUsername">User name</string>
+    <string name="etPassword">Password</string>
+    <string name="etLogin">Login</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCreateAccount">Create Account</string>
+    <string name="et_ReenterPassword">Re-enter Password</string>
+</resources>

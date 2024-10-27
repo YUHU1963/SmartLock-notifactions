@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="LoginPage">Login Page</string>
+    <string name="UnlockButton">Unlock</string>
+    <string name="app_name">SmartLock</string>
+    <string name="btnCreateAccount">Create Account</string>
+    <string name="btnLogin">Login</string>
+    <string name="etLogin">Login</string>
+    <string name="etPassword">Password</string>
+    <string name="etUsername">User name</string>
+    <string name="et_ReenterPassword">Re-enter Password</string>
+    <style name="Base.Theme.SmartLock" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SmartLock" parent="Base.Theme.SmartLock"/>
+</resources>

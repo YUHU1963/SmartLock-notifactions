@@ -1,0 +1,10 @@
+<!-- res/drawable/notification_background_error.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E57373" />
+    <corners android:radius="32dp" />
+    <padding
+        android:left="16dp"
+        android:top="16dp"
+        android:right="16dp"
+        android:bottom="16dp" />
+</shape>

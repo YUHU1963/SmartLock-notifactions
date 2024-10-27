@@ -1,0 +1,5 @@
+com.example.smartlock.test.app-core-1.6.1-0 C:\Users\hy131\.gradle\caches\8.9\transforms\86f6f39a111d16a9613376ae2e3b76b3\transformed\core-1.6.1\res
+com.example.smartlock.test.app-androidTest-1 D:\andriod\Coen-Elec390_SmartDoorLockSystem-Max-Login\Android-App\SmartLock\app\build\generated\res\resValues\androidTest\debug
+com.example.smartlock.test.app-mergeDebugAndroidTestResources-2 D:\andriod\Coen-Elec390_SmartDoorLockSystem-Max-Login\Android-App\SmartLock\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.smartlock.test.app-mergeDebugAndroidTestResources-3 D:\andriod\Coen-Elec390_SmartDoorLockSystem-Max-Login\Android-App\SmartLock\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.smartlock.test.app-debugAndroidTest-4 D:\andriod\Coen-Elec390_SmartDoorLockSystem-Max-Login\Android-App\SmartLock\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
